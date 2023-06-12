@@ -29,6 +29,7 @@ def main():
 
     # Language translation
     target_languages = ["es", "fr", "de", "hi", "gu"]  # Add more language codes here
+    # you can add more pairs of languages here 
     languages = {
         'spanish': 'es',
         'french': 'fr',
